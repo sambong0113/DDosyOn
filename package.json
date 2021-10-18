@@ -1,0 +1,19 @@
+{
+  "name": "learn-starter",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next export",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.11.4",
+    "@material-ui/icons": "^4.11.2",
+    "axios": "^0.21.1",
+    "clsx": "^1.1.1",
+    "next": "^10.2.3",
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
+  }
+}
